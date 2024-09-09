@@ -71,10 +71,10 @@ rsync://192.168.1.100/public/
 
 Este proyecto está bajo la [Licencia MIT](LICENSE).
 
----
+
 
 ### Autor: [1NCO6N1TO](https://github.com/1NCO6N1TO)
 
----
+
 
 
